@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home Task</title>
+	<style>
+   	 p {
+     	   color: purple;
+         font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+	<h1>Just simple text</h1>
+	<p><u>Create</u> <strong>HTML</strong> <em>document</em></p>
+	<link rel="stylesheet" href="Rules.css">
+	<ul>
+		<p style="color: green;">List of rules</p>
+	<div>
+		<u>
+		<li>Rule#1</li>
+            <li>Rule#2</li>
+		<li>Rule#3</li>
+		<li>Rule#4</li>
+		<li>No Rules</li>
+		</u>
+	</div>
+	</ul>
+	<a href="Second file.html.html"</a>
+<h1>link</h1>
+</body>
+</html>
